@@ -1,0 +1,1805 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 21:56:24] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- discipline
+- file
+- main_full
+
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 21:56:29] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- discipline
+- file
+- main_full
+
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 21:56:36] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 21:57:32] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- discipline
+- file
+- main_full
+
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 21:57:37] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 22:00:18] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- discipline
+- file
+- main_full
+
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 22:00:22] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 22:06:19] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- discipline
+- file
+- main_full
+
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 22:06:26] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 22:07:54] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+ERROR:root:Prediction Error: This LabelEncoder instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+INFO:werkzeug:192.168.1.175 - - [20/Oct/2023 22:07:58] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:31:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:31:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Prediction Error: "None of [Index(['private_vb', 'that_del', 'contract', 'vb_present', 'pro_2', 'do_pro',\n       'pro_dem', 'emphatic', 'pro_1', 'pro_it',\n       ...\n       'to_vcc', 'ing_vcc', 'advl', 'post_nom', 'NCC', 'NFNCC', 'jcmp_that',\n       'jcmp_to', 'it_extra', 'it_to'],\n      dtype='object', length=193)] are in the [columns]"
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:32:43] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+ERROR:root:Prediction Error: This LabelEncoder instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:33:02] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:35:21] "GET / HTTP/1.1" 200 -
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- (other
+- ...
+- columns)
+- discipline
+Feature names seen at fit time, yet now missing:
+- NCC
+- NFNCC
+- X100
+- X101
+- X102
+- ...
+
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:35:27] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:37:12] "GET / HTTP/1.1" 200 -
+ERROR:root:Prediction Error: could not convert string to float: 'that_del'
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:37:17] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:38:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:38:45] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:39:32] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:40:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:40:57] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:41:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:41:55] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:43:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:43:43] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:47:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:47:37] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:48:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:48:24] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:49:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:49:14] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:51:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:51:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:51:30] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:54:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:54:12] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:56:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:56:48] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:58:41] "GET / HTTP/1.1" 200 -
+ERROR:root:Prediction Error: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- discipline
+- file
+- main_full
+
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 20:58:46] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:00:01] "GET / HTTP/1.1" 200 -
+ERROR:root:Prediction Error: Input data has different features than the training data
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:00:05] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:00:18] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:00:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:00:33] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5004/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:01:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:01:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Prediction Error: Input data has different features than the training data
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:01:21] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:03:05] "GET / HTTP/1.1" 200 -
+ERROR:root:Prediction Error: Input data has different features than the training data
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:03:10] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:04:17] "GET / HTTP/1.1" 200 -
+ERROR:root:Prediction Error: This LabelEncoder instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:04:22] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:04:53] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+DEBUG:root:Prediction Result: to argue
+DEBUG:root:Top Features: ['pro_3', 'pro_all', 'infinitive', 'jj_att_other', 'genitive_of']
+INFO:werkzeug:192.168.1.175 - - [21/Jan/2024 21:04:57] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [24/Jan/2024 11:50:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [24/Jan/2024 11:50:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:    file main_full discipline  private_vb  that_del  contract  vb_present  \
+0  0004d  to argue         SS         6.3       0.3       1.9        89.4   
+
+   pro_2  do_pro  pro_dem  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0      0     0.2      5.1  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 196 columns]
+DEBUG:root:Prediction Result: to argue
+DEBUG:root:Top Features: ['that_rel', 'vb_perfect', 'nn_group', 'to_vb_desire', 'nn_stance_pp']
+INFO:werkzeug:192.168.1.175 - - [24/Jan/2024 11:50:32] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [24/Jan/2024 13:12:00] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file  private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0  0004d         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0         1      4  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 194 columns]
+DEBUG:root:Prediction Result: to argue
+DEBUG:root:Top Features: ['that_rel', 'vb_perfect', 'nn_group', 'to_vb_desire', 'nn_stance_pp']
+INFO:werkzeug:192.168.1.175 - - [24/Jan/2024 13:12:21] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:    file  private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0  0004d         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  ...  to_vcc  ing_vcc   advl  post_nom   NCC  NFNCC  \
+0         1      4  ...    4.09        0  14.42       3.9  2.05   2.44   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.56         0   0.49  
+
+[1 rows x 194 columns]
+DEBUG:root:Prediction Result: to argue
+DEBUG:root:Top Features: ['that_rel', 'vb_perfect', 'nn_group', 'to_vb_desire', 'nn_stance_pp']
+INFO:werkzeug:192.168.1.175 - - [24/Jan/2024 13:13:21] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.31.204:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5002/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-b523888b-69bf-4e78-9254-05e0066d8044
+DEBUG:pyngrok.process:ngrok process starting with PID: 85552
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:31-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:22:31-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:31-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:31-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:31-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=eror msg="failed to reconnect session" obj=tunnels.session obj=csess id=cbd39c66b619 err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc00053a830}} restart:false}"
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=eror msg="terminating with error" obj=app err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=info msg="no more state changes" obj=tunnels.session
+CRITICAL:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=crit msg="command failed" err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:22:32-0500 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": context canceled"
+DEBUG:pyngrok.process:Removing stale process for "ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+DEBUG:pyngrok.process:"ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok is not running a process
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-781e9eb6-5a92-4775-9a50-36b93767a9b3
+DEBUG:pyngrok.process:ngrok process starting with PID: 85591
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=eror msg="failed to reconnect session" obj=tunnels.session obj=csess id=471d8d53bd3e err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc000696140}} restart:false}"
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=eror msg="terminating with error" obj=app err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=info msg="no more state changes" obj=tunnels.session
+CRITICAL:pyngrok.process.ngrok:t=2024-01-30T16:22:47-0500 lvl=crit msg="command failed" err="authentication failed: Usage of ngrok requires a verified account and authtoken.\n\nSign up for an account: https://dashboard.ngrok.com/signup\nInstall your authtoken: https://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_4018\r\n"
+DEBUG:pyngrok.process:Removing stale process for "ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+DEBUG:pyngrok.process:"ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok is not running a process
+INFO:pyngrok.process:Updating authtoken for default "config_path" of "ngrok_path": /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-ee995586-d74e-4f40-a894-6f218ef39b99
+DEBUG:pyngrok.process:ngrok process starting with PID: 85756
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:49-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:25:49-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:49-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:49-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:49-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg="client session established" obj=tunnels.session obj=csess id=527031d37383
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg="tunnel session started" obj=tunnels.session
+DEBUG:pyngrok.process:ngrok process has started with API URL: http://127.0.0.1:4040
+DEBUG:pyngrok.process:Monitor thread will be started
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg=start pg=/api/tunnels id=9cb0a5d178460985
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg=end pg=/api/tunnels id=9cb0a5d178460985 status=200 dur=914.792µs
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg=start pg=/api/tunnels id=a7b0caa09e38e9b0
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': 5005, 'name': 'http-80-ee995586-d74e-4f40-a894-6f218ef39b99', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg=end pg=/api/tunnels id=a7b0caa09e38e9b0 status=200 dur=177.084µs
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': 5005, 'name': 'http-80-ee995586-d74e-4f40-a894-6f218ef39b99', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg=start pg=/api/tunnels id=e1cfe26df3189e0f
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=e1cfe26df3189e0f err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:25:50-0500 lvl=info msg=end pg=/api/tunnels id=e1cfe26df3189e0f status=400 dur=2.74325ms
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel"}}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:52-0500 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:52-0500 lvl=info msg="session closing" obj=tunnels.session err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:52-0500 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=527031d37383 err="reconnecting session closed"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:52-0500 lvl=info msg="no more state changes" obj=tunnels.session
+INFO:pyngrok.process:Updating authtoken for default "config_path" of "ngrok_path": /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-eb965c9f-811a-4fe0-86ce-8ada800cd458
+DEBUG:pyngrok.process:Removing stale process for "ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+DEBUG:pyngrok.process:ngrok process starting with PID: 85798
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg="client session established" obj=tunnels.session obj=csess id=9c019076f514
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg="tunnel session started" obj=tunnels.session
+DEBUG:pyngrok.process:ngrok process has started with API URL: http://127.0.0.1:4040
+DEBUG:pyngrok.process:Monitor thread will be started
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg=start pg=/api/tunnels id=40eba32fef8d6ebf
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg=end pg=/api/tunnels id=40eba32fef8d6ebf status=200 dur=628.541µs
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg=start pg=/api/tunnels id=2ac5701ca347cb0e
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': 5005, 'options': {'addr': 5005, 'proto': 'http', 'bind_tls': True}, 'name': 'http-80-eb965c9f-811a-4fe0-86ce-8ada800cd458', 'addr': '80', 'proto': 'http'}
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': 5005, 'options': {'addr': 5005, 'proto': 'http', 'bind_tls': True}, 'name': 'http-80-eb965c9f-811a-4fe0-86ce-8ada800cd458', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg=end pg=/api/tunnels id=2ac5701ca347cb0e status=200 dur=136.917µs
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg=start pg=/api/tunnels id=00a50bbf3e87b2d7
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=00a50bbf3e87b2d7 err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:26:53-0500 lvl=info msg=end pg=/api/tunnels id=00a50bbf3e87b2d7 status=400 dur=2.01325ms
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"}}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:28:22-0500 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+INFO:pyngrok.process:Updating authtoken for default "config_path" of "ngrok_path": /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-ac087008-9ce5-4cb8-ba5f-882f8621875f
+DEBUG:pyngrok.process:Removing stale process for "ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+DEBUG:pyngrok.process:ngrok process starting with PID: 85885
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:00-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:29:00-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:00-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:00-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:00-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=eror msg="failed to reconnect session" obj=tunnels.session obj=csess id=7efbb0489483 err="authentication failed: The authtoken you specified is an ngrok v1 authtoken, but you're using ngrok v2.\nYour authtoken: your-ngrok-authtoken\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_106\r\n"
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: The authtoken you specified is an ngrok v1 authtoken, but you're using ngrok v2.\nYour authtoken: your-ngrok-authtoken\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_106\r\n"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc0004ff1c0}} restart:false}"
+ERROR:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=eror msg="terminating with error" obj=app err="authentication failed: The authtoken you specified is an ngrok v1 authtoken, but you're using ngrok v2.\nYour authtoken: your-ngrok-authtoken\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_106\r\n"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=info msg="no more state changes" obj=tunnels.session
+CRITICAL:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=crit msg="command failed" err="authentication failed: The authtoken you specified is an ngrok v1 authtoken, but you're using ngrok v2.\nYour authtoken: your-ngrok-authtoken\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_106\r\n"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:29:01-0500 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": context canceled"
+DEBUG:pyngrok.process:Removing stale process for "ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+DEBUG:pyngrok.process:"ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok is not running a process
+INFO:pyngrok.process:Updating authtoken for default "config_path" of "ngrok_path": /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-712a8675-8767-4f03-9b99-7627b30c7ee8
+DEBUG:pyngrok.process:ngrok process starting with PID: 85891
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg="client session established" obj=tunnels.session obj=csess id=8ae6c9342b12
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg="tunnel session started" obj=tunnels.session
+DEBUG:pyngrok.process:ngrok process has started with API URL: http://127.0.0.1:4040
+DEBUG:pyngrok.process:Monitor thread will be started
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg=start pg=/api/tunnels id=ca0049e8fb95f589
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg=end pg=/api/tunnels id=ca0049e8fb95f589 status=200 dur=618.458µs
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg=start pg=/api/tunnels id=03f7275c45fba627
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': '5005', 'name': 'http-80-712a8675-8767-4f03-9b99-7627b30c7ee8', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg=end pg=/api/tunnels id=03f7275c45fba627 status=200 dur=129.334µs
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': '5005', 'name': 'http-80-712a8675-8767-4f03-9b99-7627b30c7ee8', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg=start pg=/api/tunnels id=8458564300f76ca1
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=8458564300f76ca1 err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:29:16-0500 lvl=info msg=end pg=/api/tunnels id=8458564300f76ca1 status=400 dur=2.01875ms
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel"}}
+INFO:pyngrok.process:Updating authtoken for default "config_path" of "ngrok_path": /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+INFO:werkzeug: * Running on http://localhost:5005/ (Press CTRL+C to quit)
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-4955973a-3cd5-41bb-b4dc-e35dd26eee96
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': '5005', 'options': {'bind_tls': True}, 'name': 'http-80-4955973a-3cd5-41bb-b4dc-e35dd26eee96', 'addr': '80', 'proto': 'http'}
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': '5005', 'options': {'bind_tls': True}, 'name': 'http-80-4955973a-3cd5-41bb-b4dc-e35dd26eee96', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:30:02-0500 lvl=info msg=start pg=/api/tunnels id=98e65adaae4e71f7
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:30:02-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=98e65adaae4e71f7 err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"}}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:30:02-0500 lvl=info msg=end pg=/api/tunnels id=98e65adaae4e71f7 status=400 dur=1.26475ms
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-a782c48b-8a78-4b02-8ee6-ee62de09ce11
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': '5005', 'options': {'bind_tls': True}, 'name': 'http-80-a782c48b-8a78-4b02-8ee6-ee62de09ce11', 'addr': '80', 'proto': 'http'}
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': '5005', 'options': {'bind_tls': True}, 'name': 'http-80-a782c48b-8a78-4b02-8ee6-ee62de09ce11', 'addr': '80', 'proto': 'http'}
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"}}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:31:38-0500 lvl=info msg=start pg=/api/tunnels id=e8b9ce6978ea76ac
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:31:38-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=e8b9ce6978ea76ac err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:31:38-0500 lvl=info msg=end pg=/api/tunnels id=e8b9ce6978ea76ac status=400 dur=486.75µs
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-1b6af74b-5b54-4312-bd9b-dbb5160dfada
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': '5006', 'options': {'bind_tls': True}, 'name': 'http-80-1b6af74b-5b54-4312-bd9b-dbb5160dfada', 'addr': '80', 'proto': 'http'}
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': '5006', 'options': {'bind_tls': True}, 'name': 'http-80-1b6af74b-5b54-4312-bd9b-dbb5160dfada', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:31:50-0500 lvl=info msg=start pg=/api/tunnels id=fe853341d2598b7d
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:31:50-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=fe853341d2598b7d err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:31:50-0500 lvl=info msg=end pg=/api/tunnels id=fe853341d2598b7d status=400 dur=529.5µs
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"}}
+INFO:werkzeug: * Running on http://localhost:5006/ (Press CTRL+C to quit)
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:32:55-0500 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:32:55-0500 lvl=info msg="session closing" obj=tunnels.session err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:32:55-0500 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=8ae6c9342b12 err="reconnecting session closed"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:32:55-0500 lvl=info msg="no more state changes" obj=tunnels.session
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5005/ (Press CTRL+C to quit)
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:33:20-0500 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:33:20-0500 lvl=info msg="session closing" obj=tunnels.session err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:33:20-0500 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=bfe48cb0c686 err="reconnecting session closed"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:33:20-0500 lvl=info msg="no more state changes" obj=tunnels.session
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:pyngrok.ngrok:Opening tunnel named: http-80-ae21808a-329f-45c0-8b2f-fbbce965d30b
+DEBUG:pyngrok.process:Removing stale process for "ngrok_path" /Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/pyngrok/bin/ngrok
+DEBUG:pyngrok.process:ngrok process starting with PID: 86246
+INFO:werkzeug: * Running on http://localhost:5006/ (Press CTRL+C to quit)
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:29-0500 lvl=info msg="no configuration paths supplied"
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:35:29-0500 lvl=warn msg="ngrok config file found at legacy location, move to XDG location" xdg_path="/Users/ingridveloso/Library/Application Support/ngrok/ngrok.yml" legacy_path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:29-0500 lvl=info msg="using configuration at default config path" path=/Users/ingridveloso/.ngrok2/ngrok.yml
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:29-0500 lvl=info msg="open config file" path=/Users/ingridveloso/.ngrok2/ngrok.yml err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:29-0500 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg="client session established" obj=tunnels.session obj=csess id=22c8414be3aa
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg="tunnel session started" obj=tunnels.session
+DEBUG:pyngrok.process:ngrok process has started with API URL: http://127.0.0.1:4040
+DEBUG:pyngrok.process:Monitor thread will be started
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg=start pg=/api/tunnels id=4e5173501cde72c6
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg=end pg=/api/tunnels id=4e5173501cde72c6 status=200 dur=653.583µs
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg=start pg=/api/tunnels id=3f736306efa17bac
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg=end pg=/api/tunnels id=3f736306efa17bac status=200 dur=126µs
+DEBUG:pyngrok.ngrok:Creating tunnel with options: {'port': '5006', 'options': {'bind_tls': True}, 'name': 'http-80-ae21808a-329f-45c0-8b2f-fbbce965d30b', 'addr': '80', 'proto': 'http'}
+DEBUG:pyngrok.ngrok:Making POST request to http://127.0.0.1:4040/api/tunnels with data: {'port': '5006', 'options': {'bind_tls': True}, 'name': 'http-80-ae21808a-329f-45c0-8b2f-fbbce965d30b', 'addr': '80', 'proto': 'http'}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg=start pg=/api/tunnels id=ed5a4d5cab581c52
+WARNING:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=warn msg="invalid tunnel configuration" pg=/api/tunnels id=ed5a4d5cab581c52 err="yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"
+DEBUG:pyngrok.ngrok:Response 400: {"error_code":102,"status_code":400,"msg":"invalid tunnel configuration","details":{"err":"yaml: unmarshal errors:\n  line 1: field port not found in type config.HTTPv2Tunnel\n  line 1: field options not found in type config.HTTPv2Tunnel"}}
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:35:30-0500 lvl=info msg=end pg=/api/tunnels id=ed5a4d5cab581c52 status=400 dur=1.962958ms
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:36:19-0500 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:36:19-0500 lvl=info msg="session closing" obj=tunnels.session err=nil
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:36:19-0500 lvl=info msg="accept failed" obj=tunnels.session obj=csess id=22c8414be3aa err="reconnecting session closed"
+INFO:pyngrok.process.ngrok:t=2024-01-30T16:36:19-0500 lvl=info msg="no more state changes" obj=tunnels.session
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:42:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:42:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Prediction Result: to explain
+DEBUG:root:Top Features: ['to_vb_desire', 'jj_epist_pred', 'jj_att_pred', 'that_del', 'det_nn_stance']
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:42:35] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Prediction Result: to explain
+DEBUG:root:Top Features: ['to_vb_desire', 'jj_epist_pred', 'jj_att_pred', 'that_del', 'det_nn_stance']
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:42:47] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:44:23] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:44:28] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:45:36] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:45:40] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:47:05] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:47:15] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:49:46] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:50:15] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:51:38] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:51:49] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:53:03] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:53:09] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:54:31] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:54:37] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5003/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:57:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:57:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:57:36] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:58:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:58:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:58:46] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:59:13] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6657153509360024
+DEBUG:root:Percentages: {0: 27.876474029502933, 1: 66.57153509360025, 2: 5.551990876896834}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 16:59:18] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         5.1       0.4         0        72.5      0       0      6.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       1.7      0    19.8  ...     5.9     0.42  12.22     11.79    0   0.42   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0       0.42     1.68      0.42   2.53  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.3932807335875411
+DEBUG:root:Percentages: {0: 35.10196681901876, 1: 39.32807335875411, 2: 25.56995982222712}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:01:29] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0           7       0.4       1.1        76.4      0       0       10   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc  advl  post_nom   NCC  NFNCC  \
+0         3    0.7    11.4  ...    5.54     0.37  14.4      9.23  1.85   1.11   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.85      0.74   0.74  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.6001433840119894
+DEBUG:root:Percentages: {0: 18.999013223917355, 1: 60.01433840119894, 2: 20.98664837488371}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:02:38] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:03:55] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0           7       0.4       1.1        76.4      0       0       10   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc  advl  post_nom   NCC  NFNCC  \
+0         3    0.7    11.4  ...    5.54     0.37  14.4      9.23  1.85   1.11   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.85      0.74   0.74  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.4092320691530888
+DEBUG:root:Percentages: {0: 24.08950522224332, 1: 40.92320691530888, 2: 34.987287862447815}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:06] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:26] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:37] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:37] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:37] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         5.1       0.4         0        72.5      0       0      6.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       1.7      0    19.8  ...     5.9     0.42  12.22     11.79    0   0.42   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0       0.42     1.68      0.42   2.53  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3411052320830093
+DEBUG:root:Percentages: {0: 34.11052320830093, 1: 33.93073035841429, 2: 31.95874643328478}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:52] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0           7       0.4       1.1        76.4      0       0       10   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc  advl  post_nom   NCC  NFNCC  \
+0         3    0.7    11.4  ...    5.54     0.37  14.4      9.23  1.85   1.11   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.85      0.74   0.74  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.361420175294816
+DEBUG:root:Percentages: {0: 36.1420175294816, 1: 31.297156700342, 2: 32.5608257701764}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:04:59] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         5.1       0.4         0        72.5      0       0      6.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       1.7      0    19.8  ...     5.9     0.42  12.22     11.79    0   0.42   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0       0.42     1.68      0.42   2.53  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3411052320830093
+DEBUG:root:Percentages: {0: 34.11052320830093, 1: 33.93073035841429, 2: 31.95874643328478}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:05:07] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0         0    0.7     6.7  ...     3.2        0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.78         0      0  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to give a procedural recount
+DEBUG:root:Top Probability: 0.3561986519624498
+DEBUG:root:Percentages: {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:06:39] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5004/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:09:36] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:09:47] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0         0    0.7     6.7  ...     3.2        0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.78         0      0  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to give a procedural recount
+DEBUG:root:Top Probability: 0.3561986519624498
+DEBUG:root:Percentages: {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:09:52] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         5.1       0.4         0        72.5      0       0      6.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       1.7      0    19.8  ...     5.9     0.42  12.22     11.79    0   0.42   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0       0.42     1.68      0.42   2.53  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3411052320830093
+DEBUG:root:Percentages: {0: 34.11052320830093, 1: 33.93073035841429, 2: 31.95874643328478}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:09:58] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:10:05] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0         0        63.8      0       0      1.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0      0   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0      3.3      0.55   0.55  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.36890515170966337
+DEBUG:root:Percentages: {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:11:13] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:11:29] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.140.24:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.140.24 - - [30/Jan/2024 17:11:42] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [30/Jan/2024 21:30:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [30/Jan/2024 21:30:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0         0        63.8      0       0      1.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0      0   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0      3.3      0.55   0.55  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.36890515170966337
+DEBUG:root:Percentages: {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}
+INFO:werkzeug:192.168.1.175 - - [30/Jan/2024 21:30:27] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [31/Jan/2024 13:54:51] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:192.168.1.175 - - [31/Jan/2024 13:55:47] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [31/Jan/2024 13:55:53] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:192.168.1.175 - - [31/Jan/2024 14:05:19] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.19.20.112:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.19.20.112 - - [01/Feb/2024 14:24:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.19.20.112 - - [01/Feb/2024 14:24:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:28:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:28:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:28:29] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:29:49] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:29:53] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:31:01] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:31:05] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:31:47] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:31:51] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:32:16] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:32:21] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:32:23] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:32:24] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:33:10] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:33:14] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:35:34] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:35:38] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:37:29] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:37:33] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:39:01] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:39:05] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:40:21] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:40:25] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:41:55] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:42:00] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:42:57] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:43:01] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+ERROR:__main__:Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/folders/bv/0q0q47mj5_b9cqh241y0_s4h0000gn/T/ipykernel_21140/3625362950.py", line 69, in predict_communicative_purpose
+    return render_template('index.html', communicative_purpose=None, probability=None, percentages=None, error_message=None)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/templating.py", line 137, in render_template
+    return _render(
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/jinja2/environment.py", line 1090, in render
+    self.environment.handle_exception()
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/ingridveloso/Documents/MSU/Research22-23/acadcorpus/AcadInterface/./index.html", line 54, in top-level template code
+    labels: {% for purpose, _ in percentages.items() %}'{{ purpose }}',{% endfor %}
+jinja2.exceptions.UndefinedError: 'None' has no attribute 'items'
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:43:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+ERROR:__main__:Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/folders/bv/0q0q47mj5_b9cqh241y0_s4h0000gn/T/ipykernel_21140/3625362950.py", line 69, in predict_communicative_purpose
+    return render_template('index.html', communicative_purpose=None, probability=None, percentages=None, error_message=None)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/templating.py", line 137, in render_template
+    return _render(
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/flask/templating.py", line 120, in _render
+    rv = template.render(context)
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/jinja2/environment.py", line 1090, in render
+    self.environment.handle_exception()
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/jinja2/environment.py", line 832, in handle_exception
+    reraise(*rewrite_traceback_stack(source=source))
+  File "/Users/ingridveloso/opt/anaconda3/lib/python3.9/site-packages/jinja2/_compat.py", line 28, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/ingridveloso/Documents/MSU/Research22-23/acadcorpus/AcadInterface/./index.html", line 54, in top-level template code
+    labels: {% for purpose, _ in percentages.items() %}'{{ purpose }}',{% endfor %}
+jinja2.exceptions.UndefinedError: 'None' has no attribute 'items'
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:44:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:44:43] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:44:49] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:47:17] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         6.3       0.3       1.9        89.4      0     0.2      5.1   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom   NCC  \
+0         1      4    13.5  ...    4.09        0  14.42       3.9  2.05   
+
+   NFNCC  jcmp_that  jcmp_to  it_extra  it_to  
+0   2.44          0     1.56         0   0.49  
+
+[1 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to argue
+DEBUG:root:Top Probability: 0.3953408860986965
+DEBUG:root:Percentages: {0: 39.53408860986965, 1: 35.19682153431823, 2: 25.269089855812116}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:47:21] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Top Communicative Purpose: to explain
+DEBUG:root:Top Probability: 0.36890515170966337
+DEBUG:root:Percentages: {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:48:46] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:49:57] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:50:01] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:51:58] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:52:09] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:54:22] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+ERROR:root:Prediction Error: 'enumerate' is undefined
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:54:27] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+ERROR:root:Prediction Error: 'enumerate' is undefined
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:54:34] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0         0        63.8      0       0      1.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0      0   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0      3.3      0.55   0.55  
+
+[1 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}]
+ERROR:root:Prediction Error: 'enumerate' is undefined
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:54:39] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:55:22] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:55:26] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:56:28] "GET / HTTP/1.1" 200 -
+DEBUG:root:Predictions:
+DEBUG:root:[{'communicative_purpose': 'to explain', 'probability': 0.6458057609212776, 'percentages': {0: 14.723834768782615, 1: 64.58057609212776, 2: 20.69558913908963}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.45770244636970386, 'percentages': {0: 12.893006929551532, 1: 41.33674843347809, 2: 45.77024463697039}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:56:31] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:58:09] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:58:13] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:59:54] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 16:59:58] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:00:54] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:01:00] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5006/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:02:14] "GET / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:02:18] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.17.230.131:5007/ (Press CTRL+C to quit)
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:08:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:08:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0         0    0.7     6.7  ...     3.2        0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     1.78         0      0  
+
+[1 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:08:43] "POST / HTTP/1.1" 200 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:10.17.230.131 - - [06/Feb/2024 17:08:50] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5007/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5004/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5004/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5007/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [07/Feb/2024 14:03:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [07/Feb/2024 14:03:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:192.168.1.175 - - [07/Feb/2024 14:03:53] "POST / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.175:5007/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.1.175 - - [09/Feb/2024 21:36:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.175 - - [09/Feb/2024 21:36:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:Input Data:
+DEBUG:root:   private_vb  that_del  contract  vb_present  pro_2  do_pro  pro_dem  \
+0         3.9         0       0.0        63.8      0       0      1.7   
+1         3.2         0       0.7        63.6      0       0      0.7   
+
+   emphatic  pro_1  pro_it  ...  to_vcc  ing_vcc   advl  post_nom  NCC  NFNCC  \
+0       5.5    0.6    14.9  ...     1.1      1.1  11.55      6.05    0   0.00   
+1       0.0    0.7     6.7  ...     3.2      0.0  12.07      2.49    0   0.36   
+
+   jcmp_that  jcmp_to  it_extra  it_to  
+0          0     3.30      0.55   0.55  
+1          0     1.78      0.00   0.00  
+
+[2 rows x 193 columns]
+DEBUG:root:Predictions: [{'communicative_purpose': 'to explain', 'probability': 0.36890515170966337, 'percentages': {0: 29.95408687256072, 1: 36.89051517096634, 2: 33.155397956472946}}, {'communicative_purpose': 'to give a procedural recount', 'probability': 0.3561986519624498, 'percentages': {0: 29.252180104559134, 1: 35.12795469919588, 2: 35.61986519624498}}]
+INFO:werkzeug:192.168.1.175 - - [09/Feb/2024 21:37:56] "POST / HTTP/1.1" 200 -

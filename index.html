@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Communicative Purpose Prediction</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Include Chart.js library -->
+</head>
+<body>
+    <h1>Communicative Purpose Prediction</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv">
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if predictions %}
+        {% for prediction in predictions %}
+            <div style="width: 50%;"> <!-- Set width to half of the screen -->
+                <h2>Prediction for Row {{ loop.index }}</h2>
+                <p>Predicted Communicative Purpose: {{ prediction.communicative_purpose }}</p>
+                <p>Top Probability: {{ prediction.probability }}</p>
+                <p>Probabilities:</p>
+                <ul>
+                    {% for label, probability in prediction.percentages.items() %}
+                        <li>
+                            {% if label == 0 %}
+                                To Argue
+                            {% elif label == 1 %}
+                                To Explain
+                            {% elif label == 2 %}
+                                To Give A Procedural Recount
+                            {% endif %}
+                            : {{ probability }}
+                        </li>
+                    {% endfor %}
+                </ul>
+                <canvas id="chart{{ loop.index }}" width="200" height="100"></canvas> <!-- Smaller chart canvas -->
+            </div>
+            <script>
+                // JavaScript code to create bar chart
+                var ctx{{ loop.index }} = document.getElementById('chart{{ loop.index }}').getContext('2d');
+                var chart{{ loop.index }} = new Chart(ctx{{ loop.index }}, {
+                    type: 'bar',
+                    data: {
+                        labels: ['To Argue', 'To Explain', 'To Give A Procedural Recount'], // Labels for x-axis
+                        datasets: [{
+                            label: 'Probabilities',
+                            data: [{{ prediction.percentages[0] }}, {{ prediction.percentages[1] }}, {{ prediction.percentages[2] }}], // Probabilities for y-axis
+                            backgroundColor: [ // Bar colors
+                                'rgba(255, 99, 132, 0.2)',
+                                'rgba(54, 162, 235, 0.2)',
+                                'rgba(255, 206, 86, 0.2)'
+                            ],
+                            borderColor: [ // Border colors
+                                'rgba(255, 99, 132, 1)',
+                                'rgba(54, 162, 235, 1)',
+                                'rgba(255, 206, 86, 1)'
+                            ],
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+            </script>
+        {% endfor %}
+    {% endif %}
+
+    {% if error_message %}
+        <p>Error processing input: {{ error_message }}</p>
+    {% endif %}
+</body>
+</html>

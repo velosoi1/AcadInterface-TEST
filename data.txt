@@ -1,0 +1,14 @@
+that_del	6.3
+vb_present	1.9
+pro_2	89.4
+do_pro	0
+pro_dem	0.2
+emphatic	5.1
+pro_1	1
+pro_it	4
+vb_be	13.5
+sub_conj_caus	2.1
+discipline	3.1
+...	0
+(other	0.8
+columns)	0
